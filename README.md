@@ -5,4 +5,4 @@ O Painel Pizzaria Maluca, é uma atualização do Projeto Cardápio Online, ele 
 - Opções de pagamento como dinheiro, pix, cartão de crédito e débito
 - Os proprietários do restaurante conseguem alterar horários de funcionamento, adicionar "sobre" e alterar os icones do cárdapio
 
-O proejto foi desenvolvidos atrvés de um curso feito com a plataforma Frontlee.
+O proejto foi desenvolvido através de um curso feito com a plataforma Frontlee.
